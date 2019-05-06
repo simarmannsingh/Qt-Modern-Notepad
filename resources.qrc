@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>baseline-add-24px.png</file>
+        <file>baseline-build-24px.png</file>
+        <file>baseline-calendar_today-24px.png</file>
+        <file>baseline-create-24px.png</file>
+        <file>baseline-print-24px.png</file>
+        <file>baseline-restore_from_trash-24px.png</file>
+        <file>baseline-zoom_in-24px.png</file>
+        <file>baseline-zoom_out-24px.png</file>
+        <file>content-copy.png</file>
+        <file>content-cut.png</file>
+        <file>content-paste.png</file>
+        <file>file-find.png</file>
+        <file>folder-open.png</file>
+        <file>folder-open-outline.png</file>
+        <file>folder-plus.png</file>
+        <file>power.png</file>
+        <file>printer.png</file>
+        <file>redo.png</file>
+        <file>undo.png</file>
+        <file>content-save.png</file>
+    </qresource>
+</RCC>
